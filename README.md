@@ -2,7 +2,7 @@
 - 👀 I’m interested in POV-Ray
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on the POV-Ray Object Collection
-- 📫 How to reach me news.povray.org
+- 📫 How to reach me [news.povray.org](https://news.povray.org/)
 
 My name is Richard Callwood III, and I live in the U.S. Virgin Islands.
 
